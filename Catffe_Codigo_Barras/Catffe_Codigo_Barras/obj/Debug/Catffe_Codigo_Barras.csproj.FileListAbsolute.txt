@@ -1,0 +1,11 @@
+C:\Users\Abel Rodriguez\source\repos\Catffe_Codigo_Barras\Catffe_Codigo_Barras\bin\Debug\Catffe_Codigo_Barras.exe.config
+C:\Users\Abel Rodriguez\source\repos\Catffe_Codigo_Barras\Catffe_Codigo_Barras\bin\Debug\Catffe_Codigo_Barras.exe
+C:\Users\Abel Rodriguez\source\repos\Catffe_Codigo_Barras\Catffe_Codigo_Barras\bin\Debug\Catffe_Codigo_Barras.pdb
+C:\Users\Abel Rodriguez\source\repos\Catffe_Codigo_Barras\Catffe_Codigo_Barras\obj\Debug\Catffe_Codigo_Barras.csproj.AssemblyReference.cache
+C:\Users\Abel Rodriguez\source\repos\Catffe_Codigo_Barras\Catffe_Codigo_Barras\obj\Debug\Catffe_Codigo_Barras.Form1.resources
+C:\Users\Abel Rodriguez\source\repos\Catffe_Codigo_Barras\Catffe_Codigo_Barras\obj\Debug\Catffe_Codigo_Barras.Properties.Resources.resources
+C:\Users\Abel Rodriguez\source\repos\Catffe_Codigo_Barras\Catffe_Codigo_Barras\obj\Debug\Catffe_Codigo_Barras.csproj.GenerateResource.cache
+C:\Users\Abel Rodriguez\source\repos\Catffe_Codigo_Barras\Catffe_Codigo_Barras\obj\Debug\Catffe_Codigo_Barras.csproj.CoreCompileInputs.cache
+C:\Users\Abel Rodriguez\source\repos\Catffe_Codigo_Barras\Catffe_Codigo_Barras\obj\Debug\Catffe_Codigo_Barras.exe
+C:\Users\Abel Rodriguez\source\repos\Catffe_Codigo_Barras\Catffe_Codigo_Barras\obj\Debug\Catffe_Codigo_Barras.pdb
+C:\Users\Abel Rodriguez\source\repos\Catffe_Codigo_Barras\Catffe_Codigo_Barras\obj\Debug\Catffe_Codigo_Barras.NuevoForm.resources
